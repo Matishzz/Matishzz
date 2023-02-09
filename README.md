@@ -4,7 +4,7 @@
 ## Table of projects
 - [Discord Tweaking Server](https://discord.gg/ZQKFga6mcb)
 - [OBS Automatic Install/Config Script](https://github.com/Matishzz/OBS-Studio)
-- [Debloat drivers for AMD](https://github.com/Matishzz/AMD-Install-Drivers)
+- [Debloat Drivers for AMD](https://github.com/Matishzz/AMD-Install-Drivers)
 - [Add Nvidia Control Panel to ContextMenu with DCH Drivers](https://github.com/Matishzz/DCH-ControlPanel)
 <p align="center">
 <img src="https://media.tenor.com/9VvvTMbjviUAAAAC/leticia-fate-fate-juana-de-arco.gif" width="600" height="300">
